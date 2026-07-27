@@ -1,3 +1,2 @@
-# DC Motor Control
-
-A simple Arduino project that controls four DC motors using two L293D motor drivers in Tinkercad. The motors move forward, backward, and alternate between right and left turns according to the required motion sequence.
+# Servo Sweep
+Arduino simulation of four servo motors performing a sweep motion for 2 seconds before stopping at a 90° angle.
